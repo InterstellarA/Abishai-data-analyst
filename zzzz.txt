@@ -1,0 +1,11 @@
+                            <article class="post featured">
+								<header class="major">
+									<h2><a href="#">About me<br />
+									</a></h2>
+									<p>Customer churn occurs when a customer stops using a company’s service lead to revenue loss. Analyzing churn helps businesses understand why customers leave and how to improve retention. High churn rates can affect revenue and business growth. By analyzing churn patterns businesses can take proactive steps to retain customers.</p>
+								</header>
+								<a href="#" class="image main"><img src="images/abishai.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="#" class="button large">view project</a></li>
+								</ul>
+							</article>
